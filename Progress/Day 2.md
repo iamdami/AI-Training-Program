@@ -2,6 +2,9 @@ Day 2
 ===
 
 ## if statements
+[Python If ... Else](https://www.w3schools.com/python/python_conditions.asp)  
+[Built-in Functions](https://docs.python.org/3.6/library/functions.html)
+
 <pre>
 1. 
   if 조건:
