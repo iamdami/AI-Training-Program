@@ -27,7 +27,21 @@ Day 2
   else:
      조건외 실행문장
 </pre>
+<br>
 
+## pass statements
+- avoid getting an error
+<br>
 
-     
+## Built-in Function - input()
+<br>
+
+## cast [형변환]
+<br>
+
+## Short Hand If ... Else(Ternary Operators, or Conditional Expressions)
+- If you have only one statement to execute, one for if, and one for else, you can put it all on the same line
+- 형식  
+<pre>  : 표현식 if a > b else 표현식</pre>
+<br>
 
