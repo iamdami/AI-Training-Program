@@ -48,3 +48,8 @@ Day 2
 <pre>  : 표현식 if a > b else 표현식</pre>
 <br>
 
+## input boolean
+- troubleshooting  
+[inputing boolean values with python](https://stackoverflow.com/questions/39822873/inputing-boolean-values-with-python)<br>
+
+
