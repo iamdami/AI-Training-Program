@@ -71,3 +71,7 @@ result = f'내 이름은 {d["name"]}입니다. 나이는 {d["age"]}입니다.'
 </pre>
 <br>
 
+## len()
+return the length
+<br>
+
