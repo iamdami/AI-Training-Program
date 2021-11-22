@@ -1,0 +1,24 @@
+import csv
+file=open('./../_dataSet01/emp2.csv','r')
+emp_csv=csv.reader(file)
+empList = 0
+
+putEmpName = input("검색할 사원명을 입력하세요: ").upper()
+
+for empList in emp_csv:
+	if empList[1] == putEmpName:
+		print("%s 사원의 연봉은 %s 입니다." % (empList[1], empList[5]))
+
+
+"""
+import csv
+file=open('./../_dataSet01/emp2.csv','r')
+emp_csv=csv.reader(file)
+list_emp=(emp_csv)
+
+putEmpName=str(input("검색할 사원명을 입력하세요: ").upper())
+
+for i in range(len(emp_csv)):
+	if list_emp[i][1] == putEmpName:
+		print("%s 사원의 연봉은 %s 입니다." % (putEmpName, list_emp[i][5]))
+"""
