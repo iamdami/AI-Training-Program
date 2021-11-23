@@ -1,0 +1,7 @@
+## Colletion Type
+store multiple items in a single variable  
+  
+01. List: orderd, changeable, allow duplicate /square brackets[]  
+02. Tuple: orderd, unchangeable, allow duplicate/ round brackets()   
+03. Set: unorderd, unchangeable, unindexed, No duplicate/curly brackets{}  
+04. Dictionary: ordered, changeable, no duplicate(Key값)/(value는 중복 됨)/curly brackets{}  
