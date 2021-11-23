@@ -1,0 +1,32 @@
+## 사용자 정의 함수  
+변수: 값 저장하는 공간, 변하는 수  
+변수가 함수() 안에 들어가면 매개변수  
+매개변수: 함수 호출할 때 값 할당  
+
+
+# Customize Sort Function
+# using the keyword argument key = function
+# Sort the list based on how close the number is to 50
+def myfunc(n):
+  return abs(n - 50)
+
+thislist = [100, 50, 65, 82, 23]
+
+"""
+01.
+100 - 50 = 50
+50 - 50 = 0
+65 - 50 = 15
+82 - 50 = 32
+23 - 50 = 27
+"""
+
+thislist.sort(key = myfunc)
+
+"""
+02.
+[0, 15, 27, 32, 50]
+"""
+
+print(thislist)
+# [50, 65, 23, 82, 100]
