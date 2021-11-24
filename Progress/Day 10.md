@@ -126,7 +126,7 @@ print(list4)
 -Use the **extend()** to add list2 at the end of list1  
   
 ## index()
-index 값 반환  
+index 위치 값 반환  
   
 ## temp 변수 이용한 값 저장
   
