@@ -1,0 +1,54 @@
+ddp.dothome.co.kr -> 본인 닷홈 도메인주소  
+  
+#Language : 명령어 -> 결과
+                    Algorithm : 어떤 문제를 해결하기 위한 절차 방법 명령어들의 집합
+
+#Language
+ 파일명 : 기본명, 확장자
+
+Compiler [번역기]
+
+*.c ---> *.exe
+장점 : 속도 빠름/ 단점 : 어려움
+
+interpreter [해석기]
+*.py ---> *.py:라인단위해석
+
+분석 :py
+
+===================================
+
+web: html
+     server/client
+      ftp: 파일 송수신 프로토콜
+->file transfer protocol
+->dothome.co.kr - 계정생성    / 웹호스팅 -무료호스팅 -> cms설치x
+
+#Language 환경 : HTML >> Web 에서 기본이 되는 Language
+01. 명령어 >> Tag 확인해 나가는 과정 
+02. Hyper Text Markup Language       -> <,>,/
+-------  >> 연관성 있는 파일로 이동 : Hyper Link
+
+HTML 구조
+MarkUp : < ,>,/
+<html>
+<head>
+   <title>  </title>
+</head>  #정의
+<body>
+   대부분의tag 기술
+</body>
+</html>
+
+폴더 ] HtmlTest01 : _html/_test/_img 만들기
+-----------------------------------------------
+#HTML Tag 종류
+01. Tag Set
+<tagname>content goes here..</tagname>
+
+02.외톨이 Tag: Empty
+<br> ,<img>
+
+03.attribute 있는 Tag
+<tagname 속성1= "속성값1" 속성2= "속성값2"...>content</tagname>
+
