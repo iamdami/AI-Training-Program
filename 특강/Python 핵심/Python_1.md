@@ -281,3 +281,51 @@ for i in dict_ex:
 ~~~~
   
 ### 오징어 게임 실습
+~~~~
+my_marble = 10
+ur_marble = 10 
+~~~~
+~~~~
+import random
+
+# 상대방이 접고 내가 걸기
+
+
+while True:
+    
+    ur_num = random.randint(1, ur_marble)  # 1~10중 랜덤한 정수 선택
+    my_choice = input("홀/짝 선택: ")
+    my_bet = int(input(f'지금 구슬은 {my_marble}개 있어요. 몇 개를 걸까요?: '))
+
+    print(f'상대방이 잡은 구슬은 {ur_num})이고, 내 선택은 {my_choice}입니다.')
+    
+    if ur_num %2 == 0 :
+        if my_choice == "짝":
+            print("내가 이김")
+            my_marble += my_bet
+            ur_marble -= my_bet 
+        elif my_choice == "홀":
+            print("내가 짐")
+            my_marble -= my_bet
+            ur_marble += my_bet 
+    else:
+        if my_choice == "홀":
+            print("내가 이김")
+            my_marble += my_bet
+            ur_marble -= my_bet
+        elif my_choice == "짝":
+            print("내가 짐")
+            my_marble -= my_bet
+            ur_marble += my_bet
+
+    print(f'내 구슬은 {my_marble}개, 상대방은 {ur_marble}개 남았어요.')
+    print("다음 판 시작")
+    print("*"*20)
+    
+    if my_marble >= 20:
+        print("승리를 축하합니당^ㅇ^")
+        break
+    elif ur_marble >= 20:
+        print("탕!!!")
+        break
+~~~~
