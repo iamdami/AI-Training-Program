@@ -11,3 +11,9 @@ It Should Not Be Used For Reading The Data, Manipulating Data And Summarizing Da
   
 [scikit-learn.org](https://scikit-learn.org/stable)  
 [sklearn-or-scikit-learn](https://pianalytix.com/sklearn-or-scikit-learn)  
+  
+데이터셋을 정형데이터로 만들어 놓을 수 있으면 좋음  
+정형데이터: 가공 편리  
+데이터 품질 좋음  
+데이터 분포 균일 좋음  
+  
