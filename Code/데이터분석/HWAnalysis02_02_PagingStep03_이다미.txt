@@ -1,0 +1,12 @@
+totalData: 총 데이터
+
+dataPerPage: 페이지당 보여줄 데이타
+
+totalPage: 총 페이지 수 --> totalData/dataPerPage
+
+nowPage: 현재 페이지 위치
+
+dataOfBeginPage: 시작 페이지의 데이터 index
+                        nowPage*dataPerPage= 시작
+	           반복--->dataPerPage만큼
+                        But!! totalData보다 작을때까지만 반복
