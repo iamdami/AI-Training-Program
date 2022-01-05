@@ -1,1 +1,1 @@
-# WooSong-univ-AI
+# AI Training Program
