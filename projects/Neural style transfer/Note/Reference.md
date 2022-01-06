@@ -5,4 +5,6 @@ Reference
 - [Reference from gitgub](https://github.com/keras-team/keras-io/blob/master/examples/generative)  
 - [Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style"](https://github.com/titu1994/Neural-Style-Transfer)  
 - [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. (2015). A Neural Algorithm of Artistic Style.](https://arxiv.org/pdf/1508.06576.pdf)  
-- [pre-trained VGG 속성 참고](https://eremo2002.tistory.com/57)
+- [pre-trained VGG 속성 참고](https://eremo2002.tistory.com/57)  
+- [Neural_Style_Transfer 실습](https://hmkim312.github.io/posts/%EC%8B%A0%EA%B2%BD_%EC%8A%A4%ED%83%80%EC%9D%BC_%EC%A0%84%EC%9D%B4(Neural_Style_Transfer))  
+- [Neural_Style_Transfer 실습 data](https://github.com/hmkim312/datas)  
