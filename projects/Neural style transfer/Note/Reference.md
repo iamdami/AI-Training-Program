@@ -11,3 +11,8 @@ Reference
 - [초보자를 위한 Python GUI 프로그래밍 - QPixmap](https://wikidocs.net/38038)  
 - [pyqt5 file dialog example](https://newbedev.com/python-file-dialog-in-pyqt5-designer-code-example)  
 - [Label을 이용한 이미지 display](https://blog.naver.com/hextrial/221109232458)  
+<br>
+  
+이 모든 걸 출력해주는 사이트도 이미 있잖앙....ㅎ  
+심지어 결과물을 벽에 걸어둘 수 있게끔 팔면 어때? 라는 아이디어가 무색하게도 이미 있었다....  
+- [deepart](https://deepart.io/)  
