@@ -1,8 +1,8 @@
 AI Training Program
 ===
-AI Training Program  
-11/2021 ~ 04/2022 WooSong Univ.  
-04/2022 ~ 07/2022 ChungNam National Univ.  
+Nov/2021 ~ Apr/2022 WooSong Univ.  
+Apr/2022 ~ Jul/2022 ChungNam National Univ.  
+Jun/27/2022 ~ Jun/28/2022 AJou Univ.
 <br>
 
 ### 2021-11-08 ~ 11-25  
